@@ -1,7 +1,9 @@
-import "./App.css";
-
 function App() {
-  return <div className="App">.</div>;
+  return (
+    <div className="bg-black h-full w-full text-white flex justify-center items-center">
+      Under construction
+    </div>
+  );
 }
 
 export default App;
